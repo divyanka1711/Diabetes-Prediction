@@ -1,0 +1,21 @@
+Complete project with a user interface ,libraries used are :->
+
+1. streamlit : For web dev
+2. pandas : For dataframe
+3. numpy : For array computations
+4. sklearn.linear_model import LogisticRegression : for implementing logistic regression
+5. sklearn.model_selection import train_test_split : for training and  testing of data 
+6. sklearn.metrics import confusion_matrix, accuracy_score : for showing computed data on web
+
+
+Instructions to run:->
+
+1. First install all the libraries in system
+2. Create a folder and put provided dataset in it.
+3. Create file named app.py in folder
+4. Then after , open folder cmd 
+5. Run the command: streamlit run app.py
+
+YOUR WEB APPLICATION WILL BE DEPLOYED.
+
+
